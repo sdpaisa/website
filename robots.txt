@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daniuribe.com/sitemap-index.xml
