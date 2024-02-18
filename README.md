@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://daniuribe.com/">
-<img src="./public/porfolio.webp">
+<img src="porfolio.webp">
 </a>
 <p></p>
 </div>
